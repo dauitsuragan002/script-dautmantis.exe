@@ -4,7 +4,7 @@ import asyncio
 import edge_tts
 import fileinput
 
-VOICE = "kk-KZ-DauletNeural"
+VOICE = "kk-KZ-DauletNeural" #ru-RU-SvetlanaNeural/kk-KZ-AigulNeural/ru-Ru-DmitryNeural kk-KZ-DauletNeural en-US-GuyNeural
 OUTPUT_FILE = "test.mp3"
 WEBVTT_FILE = "test.vtt"
 
