@@ -1,3 +1,5 @@
+# Скрипт - Текстті осы алаңда көрсету арқылы және таңдалынған атауы бар файлға  дыбыстап,авто субтитр жасап сақтау TTSSub.py
+
 import asyncio
 import edge_tts
 
@@ -19,7 +21,7 @@ async def generate_audio(text):
         file.write(submaker.generate_subs())
 
 async def main():
-    text = "Осында өзіңіздің текстіңізді жазсаңыз болады"
+    text = "Осында өзіңіздің      "
     await generate_audio(text)
 
 asyncio.create_task(main())
