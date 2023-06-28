@@ -1,14 +1,19 @@
 import asyncio
 import edge_tts
+import fileinput
 
 VOICE = "kk-KZ-DauletNeural" #ru-RU-SvetlanaNeural/kk-KZ-AigulNeural/ru-Ru-DmitryNeural
 OUTPUT_FILE = "test.mp3"
 WEBVTT_FILE = "test.vtt"
 
 async def _main() -> None:
-    # Укажите текст напрямую
-    text = "Осында өзіңіздің текстіңізді жазсаңыз болады"
-
+    # Считываем текст из файла
+    text = ""
+    with fileinput.input(files=("example.txt"), openhook=fileinput.hook_encoded("utf-8")) as file:
+        for line in file:
+            text += line
+    text = text.strip()
+    
     # Генерируем аудио файл
     communicate = edge_tts.Communicate(text, VOICE)
     submaker = edge_tts.SubMaker()
