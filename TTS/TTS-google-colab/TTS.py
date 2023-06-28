@@ -1,20 +1,22 @@
 import asyncio
 import edge_tts
+import fileinput
 
-TEXT = "Мында өз сөзіңізді жазыңыз"
+VOICE = "kk-KZ-DauletNeural" 
+OUTPUT_FILE = "test.mp3"
 
-VOICE = "kk-KZ-AigulNeural" #ru-RU-SvetlanaNeural/kk-KZ-AigulNeural/ru-Ru-DmitryNeural kk-KZ-DauletNeural en-US-GuyNeural
-OUTPUT_FILE = "example.mp3"
-
-async def generate_audio(text):
+async def _main() -> None:
+    text = ''
+    with fileinput.input(files=('Файл атауын расширениесімен көрсетіңіз.txt'), openhook=fileinput.hook_encoded("utf-8")) as file:
+        for line in file:
+            text += line
+    text = text.strip()
     communicate = edge_tts.Communicate(text, VOICE)
-    submaker = edge_tts.SubMaker()
-    with open(OUTPUT_FILE, "wb") as file:
-        async for chunk in communicate.stream():
-            if chunk["type"] == "audio":
-                file.write(chunk["data"])
+    await communicate.save(OUTPUT_FILE)
 
-async def main():
-    await generate_audio(TEXT)
-
-asyncio.create_task(main())
+if __name__ == "__main__":
+    loop = asyncio.get_event_loop()
+    try:
+        loop.run_until_complete(_main())
+    finally:
+        loop.close()
