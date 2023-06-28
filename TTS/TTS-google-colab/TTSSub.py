@@ -7,8 +7,12 @@ OUTPUT_FILE = "test.mp3"
 WEBVTT_FILE = "test.vtt"
 
 async def _main() -> None:
-    # Укажите текст напрямую
-    text = "Ваш текст здесь"
+    # Считываем текст из файла
+    text = ""
+    with fileinput.input(files=("example.txt"), openhook=fileinput.hook_encoded("utf-8")) as file:
+        for line in file:
+            text += line
+    text = text.strip()
     
     # Генерируем аудио файл
     communicate = edge_tts.Communicate(text, VOICE)
