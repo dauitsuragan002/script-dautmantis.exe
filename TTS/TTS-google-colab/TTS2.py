@@ -1,9 +1,11 @@
+# Скрипт - Дайын тексттік файл атауын нұсқау арқылы және таңдалынған атауы бар файлға  дыбыстап сақтау TTS2.py
+
 import asyncio
 import edge_tts
 
 VOICE = "kk-KZ-DauletNeural" #ru-RU-SvetlanaNeural/kk-KZ-AigulNeural/ru-Ru-DmitryNeural kk-KZ-DauletNeural en-US-GuyNeural
 OUTPUT_FILE = "test.mp3"
-INPUT_FILE = "/content/12.txt"  # Относительный путь к загруженному файлу
+INPUT_FILE = "/content/12.txt"  #Дайын тексттік файлдың аты мен орнын нұсқаймыз
 
 async def generate_audio(text):
     communicate = edge_tts.Communicate(text, VOICE)
