@@ -1,8 +1,10 @@
+# Скрипт - Дайын тексттік файл атауын нұсқау арқылы және таңдалынған атауы бар файлға  дыбыстап,авто субтитр жасап сақтау TTSSub2.py
+
 import asyncio
 import edge_tts
 import fileinput
 
-VOICE = "kk-KZ-DauletNeural" #ru-RU-SvetlanaNeural/kk-KZ-AigulNeural/ru-Ru-DmitryNeural kk-KZ-DauletNeural en-US-GuyNeural
+VOICE = "kk-KZ-DauletNeural"
 OUTPUT_FILE = "test.mp3"
 WEBVTT_FILE = "test.vtt"
 
@@ -21,11 +23,12 @@ async def generate_audio(text):
 
 async def main():
     text = ""
-    with fileinput.input(files=("/content/12.txt"), openhook=fileinput.hook_encoded("utf-8")) as file:
+    with fileinput.input(files=("/content/12.txt"), openhook=fileinput.hook_encoded("utf-8")) as file:  #Дайын тексттік файлдың аты мен орнын нұсқаймыз
         for line in file:
             text += line
     text = text.strip()
-    
+
     await generate_audio(text)
+
 
 asyncio.create_task(main())
