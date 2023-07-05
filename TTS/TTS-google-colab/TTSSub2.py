@@ -16,13 +16,11 @@ def vtt_to_srt(vtt_file, srt_file):
 
     srt_content = vtt_content.replace("WEBVTT\n\n", "")
 
-    # Разбиваем содержимое файла VTT на субтитры
     vtt_subtitles = srt_content.split("\n\n")
-
-    # Создаем содержимое файла SRT
+    
     srt_content = ""
     for i, vtt_subtitle in enumerate(vtt_subtitles, start=1):
-        if vtt_subtitle.strip():  # Проверяем, что субтитр не пустой
+        if vtt_subtitle.strip():
             srt_content += f"{i}\n{vtt_subtitle}\n\n"
 
     with open(srt_file, "w", encoding="utf-8") as srt:
