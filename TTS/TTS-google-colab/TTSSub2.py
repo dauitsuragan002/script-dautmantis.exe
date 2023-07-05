@@ -47,7 +47,7 @@ async def generate_audio(text):
 
 async def main():
     text = ""
-    with fileinput.input(files=("/content/Жалпаюға_көмектесетін_бір_жаттығу_ТАРТЫЛУДЫ_тез_үйрену.txt"), openhook=fileinput.hook_encoded("utf-8")) as file: #Дайын тексттік файлдың аты мен орнын нұсқаймыз
+    with fileinput.input(files=("/content/123.txt"), openhook=fileinput.hook_encoded("utf-8")) as file: #Дайын тексттік файлдың аты мен орнын нұсқаймыз
         for line in file:
             text += line
     text = text.strip()
