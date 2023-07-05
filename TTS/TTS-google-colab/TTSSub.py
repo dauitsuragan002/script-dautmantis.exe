@@ -41,7 +41,7 @@ def vtt_to_srt(vtt_file, srt_file):
         srt.write(srt_content)
 
 async def main():
-    text = "Осында өзіңіздің  текстіңізді жазыңыз  " #Осында өзіңіздің  текстіңізді жазыңыз  
+    text = "Осында өзіңіздің  текстіңізді жазыңыз" #Осында өзіңіздің  текстіңізді жазыңыз  
     await generate_audio(text)
 
 asyncio.create_task(main())
