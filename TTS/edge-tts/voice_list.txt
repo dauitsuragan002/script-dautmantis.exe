@@ -1,0 +1,904 @@
+Available voices:
+Microsoft Server Speech Text to Speech Voice (af-ZA, AdriNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (af-ZA, WillemNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (sq-AL, AnilaNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (sq-AL, IlirNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (am-ET, AmehaNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (am-ET, MekdesNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (ar-DZ, AminaNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (ar-DZ, IsmaelNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (ar-BH, AliNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (ar-BH, LailaNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (ar-EG, SalmaNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (ar-EG, ShakirNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (ar-IQ, BasselNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (ar-IQ, RanaNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (ar-JO, SanaNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (ar-JO, TaimNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (ar-KW, FahedNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (ar-KW, NouraNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (ar-LB, LaylaNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (ar-LB, RamiNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (ar-LY, ImanNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (ar-LY, OmarNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (ar-MA, JamalNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (ar-MA, MounaNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (ar-OM, AbdullahNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (ar-OM, AyshaNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (ar-QA, AmalNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (ar-QA, MoazNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (ar-SA, HamedNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (ar-SA, ZariyahNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (ar-SY, AmanyNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (ar-SY, LaithNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (ar-TN, HediNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (ar-TN, ReemNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (ar-AE, FatimaNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (ar-AE, HamdanNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (ar-YE, MaryamNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (ar-YE, SalehNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (az-AZ, BabekNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (az-AZ, BanuNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (bn-BD, NabanitaNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (bn-BD, PradeepNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (bn-IN, BashkarNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (bn-IN, TanishaaNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (bs-BA, GoranNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (bs-BA, VesnaNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (bg-BG, BorislavNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (bg-BG, KalinaNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (my-MM, NilarNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (my-MM, ThihaNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (ca-ES, EnricNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (ca-ES, JoanaNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (zh-HK, HiuGaaiNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (zh-HK, HiuMaanNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (zh-HK, WanLungNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (zh-CN, XiaoxiaoNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (zh-CN, XiaoyiNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (zh-CN, YunjianNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (zh-CN, YunxiNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (zh-CN, YunxiaNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (zh-CN, YunyangNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (zh-CN-liaoning, XiaobeiNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (zh-TW, HsiaoChenNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (zh-TW, YunJheNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (zh-TW, HsiaoYuNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (zh-CN-shaanxi, XiaoniNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (hr-HR, GabrijelaNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (hr-HR, SreckoNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (cs-CZ, AntoninNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (cs-CZ, VlastaNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (da-DK, ChristelNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (da-DK, JeppeNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (nl-BE, ArnaudNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (nl-BE, DenaNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (nl-NL, ColetteNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (nl-NL, FennaNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (nl-NL, MaartenNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (en-AU, NatashaNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (en-AU, WilliamNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (en-CA, ClaraNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (en-CA, LiamNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (en-HK, SamNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (en-HK, YanNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (en-IN, NeerjaExpressiveNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (en-IN, NeerjaNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (en-IN, PrabhatNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (en-IE, ConnorNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (en-IE, EmilyNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (en-KE, AsiliaNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (en-KE, ChilembaNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (en-NZ, MitchellNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (en-NZ, MollyNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (en-NG, AbeoNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (en-NG, EzinneNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (en-PH, JamesNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (en-PH, RosaNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (en-SG, LunaNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (en-SG, WayneNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (en-ZA, LeahNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (en-ZA, LukeNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (en-TZ, ElimuNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (en-TZ, ImaniNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (en-GB, LibbyNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (en-GB, MaisieNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (en-GB, RyanNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (en-GB, SoniaNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (en-GB, ThomasNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (en-US, AriaNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (en-US, AnaNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (en-US, ChristopherNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (en-US, EricNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (en-US, GuyNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (en-US, JennyNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (en-US, MichelleNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (en-US, RogerNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (en-US, SteffanNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (et-EE, AnuNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (et-EE, KertNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (fil-PH, AngeloNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (fil-PH, BlessicaNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (fi-FI, HarriNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (fi-FI, NooraNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (fr-BE, CharlineNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (fr-BE, GerardNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (fr-CA, AntoineNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (fr-CA, JeanNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (fr-CA, SylvieNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (fr-FR, DeniseNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (fr-FR, EloiseNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (fr-FR, HenriNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (fr-CH, ArianeNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (fr-CH, FabriceNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (gl-ES, RoiNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (gl-ES, SabelaNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (ka-GE, EkaNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (ka-GE, GiorgiNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (de-AT, IngridNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (de-AT, JonasNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (de-DE, AmalaNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (de-DE, ConradNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (de-DE, KatjaNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (de-DE, KillianNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (de-CH, JanNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (de-CH, LeniNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (el-GR, AthinaNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (el-GR, NestorasNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (gu-IN, DhwaniNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (gu-IN, NiranjanNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (he-IL, AvriNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (he-IL, HilaNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (hi-IN, MadhurNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (hi-IN, SwaraNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (hu-HU, NoemiNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (hu-HU, TamasNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (is-IS, GudrunNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (is-IS, GunnarNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (id-ID, ArdiNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (id-ID, GadisNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (ga-IE, ColmNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (ga-IE, OrlaNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (it-IT, DiegoNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (it-IT, ElsaNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (it-IT, IsabellaNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (ja-JP, KeitaNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (ja-JP, NanamiNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (jv-ID, DimasNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (jv-ID, SitiNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (kn-IN, GaganNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (kn-IN, SapnaNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (kk-KZ, AigulNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (kk-KZ, DauletNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (km-KH, PisethNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (km-KH, SreymomNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (ko-KR, InJoonNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (ko-KR, SunHiNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (lo-LA, ChanthavongNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (lo-LA, KeomanyNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (lv-LV, EveritaNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (lv-LV, NilsNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (lt-LT, LeonasNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (lt-LT, OnaNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (mk-MK, AleksandarNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (mk-MK, MarijaNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (ms-MY, OsmanNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (ms-MY, YasminNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (ml-IN, MidhunNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (ml-IN, SobhanaNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (mt-MT, GraceNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (mt-MT, JosephNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (mr-IN, AarohiNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (mr-IN, ManoharNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (mn-MN, BataaNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (mn-MN, YesuiNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (ne-NP, HemkalaNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (ne-NP, SagarNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (nb-NO, FinnNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (nb-NO, PernilleNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (ps-AF, GulNawazNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (ps-AF, LatifaNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (fa-IR, DilaraNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (fa-IR, FaridNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (pl-PL, MarekNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (pl-PL, ZofiaNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (pt-BR, AntonioNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (pt-BR, FranciscaNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (pt-PT, DuarteNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (pt-PT, RaquelNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (ro-RO, AlinaNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (ro-RO, EmilNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (ru-RU, DmitryNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (ru-RU, SvetlanaNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (sr-RS, NicholasNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (sr-RS, SophieNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (si-LK, SameeraNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (si-LK, ThiliniNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (sk-SK, LukasNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (sk-SK, ViktoriaNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (sl-SI, PetraNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (sl-SI, RokNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (so-SO, MuuseNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (so-SO, UbaxNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (es-AR, ElenaNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (es-AR, TomasNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (es-BO, MarceloNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (es-BO, SofiaNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (es-CL, CatalinaNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (es-CL, LorenzoNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (es-CO, GonzaloNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (es-CO, SalomeNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (es-CR, JuanNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (es-CR, MariaNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (es-CU, BelkysNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (es-CU, ManuelNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (es-DO, EmilioNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (es-DO, RamonaNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (es-EC, AndreaNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (es-EC, LuisNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (es-SV, LorenaNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (es-SV, RodrigoNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (es-GQ, JavierNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (es-GQ, TeresaNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (es-GT, AndresNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (es-GT, MartaNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (es-HN, CarlosNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (es-HN, KarlaNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (es-MX, DaliaNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (es-MX, JorgeNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (es-NI, FedericoNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (es-NI, YolandaNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (es-PA, MargaritaNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (es-PA, RobertoNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (es-PY, MarioNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (es-PY, TaniaNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (es-PE, AlexNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (es-PE, CamilaNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (es-PR, KarinaNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (es-PR, VictorNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (es-ES, AlvaroNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (es-ES, ElviraNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (es-US, AlonsoNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (es-US, PalomaNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (es-UY, MateoNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (es-UY, ValentinaNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (es-VE, PaolaNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (es-VE, SebastianNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (su-ID, JajangNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (su-ID, TutiNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (sw-KE, RafikiNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (sw-KE, ZuriNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (sw-TZ, DaudiNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (sw-TZ, RehemaNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (sv-SE, MattiasNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (sv-SE, SofieNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (ta-IN, PallaviNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (ta-IN, ValluvarNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (ta-MY, KaniNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (ta-MY, SuryaNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (ta-SG, AnbuNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (ta-SG, VenbaNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (ta-LK, KumarNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (ta-LK, SaranyaNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (te-IN, MohanNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (te-IN, ShrutiNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (th-TH, NiwatNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (th-TH, PremwadeeNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (tr-TR, AhmetNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (tr-TR, EmelNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (uk-UA, OstapNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (uk-UA, PolinaNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (ur-IN, GulNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (ur-IN, SalmanNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (ur-PK, AsadNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (ur-PK, UzmaNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (uz-UZ, MadinaNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (uz-UZ, SardorNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (vi-VN, HoaiMyNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (vi-VN, NamMinhNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (cy-GB, AledNeural)
+Gender: Male
+------
+Microsoft Server Speech Text to Speech Voice (cy-GB, NiaNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (zu-ZA, ThandoNeural)
+Gender: Female
+------
+Microsoft Server Speech Text to Speech Voice (zu-ZA, ThembaNeural)
+Gender: Male
+------
